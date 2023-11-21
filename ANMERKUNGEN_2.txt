@@ -1,5 +1,0 @@
-ich denke 1) kann man so lassen
-
-2) hier würde ich nochmal nach den tags fragen und welche man benutzen muss, ansonsten bin ich damit eigentlich auch zufrieden
-3) hab ich nochmal überarbeitet, weiß noch nicht ob ich mit dem layout der JML und JavaDoc Kommentare zufreiden bin aber denke schon
-bei Parametern und Rückgabetyp bisschen unsicher aber ich denke im Zweifel würde ich es so lassen
